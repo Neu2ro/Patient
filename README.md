@@ -2,4 +2,4 @@
 The <i>'DatabaseLayout.png'</i> file represents the database relations of the application.<br> 
 The <i>'Wireframes prt 1.png'</i> and <i>'Wireframes prt 2.png'</i> files represent the layouts of the application pages.<br> 
 Additionally, the <i>'Project'</i> folder contains all the code (<i>.jsp</i>, <i>.css</i> and <i>.js</i> files) for the respective pages.<br> 
-The <i>'Output'</i> folder includes screenshots of the application when it is hosted on localhost using Tomcat Apache server.</p>
+The <i>'Output.pdf'</i> includes screenshots of the application when it is hosted on localhost using Tomcat Apache server.</p>
